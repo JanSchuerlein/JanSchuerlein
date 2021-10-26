@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Twitter: https://twitter.com/Janomine
+- 💬 Discord: Jan#1234
+- 📫 Kontakt: me@janomine.de
+
+🔭
+
 <!--
 **JanSchuerlein/JanSchuerlein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
