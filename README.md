@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - Twitter: https://twitter.com/Janomine
-- 💬  Discord: Jan#1234
-- 📫  Kontakt: me@janomine.de
+- 💬   Discord: Jan#1234
+- 📫   Kontakt: me@janomine.de
 
   🔭
 
