@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/:440477883803238400)](https://discord.com/users/:440477883803238400)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/440477883803238400)](https://discord.com/users/440477883803238400)
