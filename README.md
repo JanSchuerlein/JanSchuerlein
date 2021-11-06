@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Jan, mainly known as Janomine.
+
+I work as a full-stack developer, however, I mainly focus on backend web development.
+
 - Twitter: https://twitter.com/Janomine
 - 💬 Discord: Jan#1234
 - 📫 Kontakt: me@janomine.de
