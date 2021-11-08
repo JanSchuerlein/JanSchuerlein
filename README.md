@@ -6,7 +6,7 @@ I work as a full-stack developer, however, I mainly focus on backend web develop
 
 - Twitter: https://twitter.com/Janomine
 - 💬 Discord: Jan#1234
-- 📫 Contakt: me@janomine.de
+- 📫 Contact: me@janomine.de
 
   🔭
 
